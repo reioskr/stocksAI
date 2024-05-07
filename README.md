@@ -19,19 +19,8 @@ First, get a list of undervalued stocks using the `get_filtered_stocks()` functi
 
 ## Dependencies
 To install the dependencies, uncomment the first block, i.e. running this in Jupyter notebook will get the packages installed:
-%pip install finvizfinance
-%pip install pandas
-%pip install transformers
-%pip install yfinance
-%pip install goose3
-%pip install requests
-%pip install ipywidgets
+- '%pip install finvizfinance'
 
-%pip install torch
-%pip install tensorflow
-%pip install nltk
-import nltk
-nltk.download('punkt')
 
 - pandas
 - yfinance
