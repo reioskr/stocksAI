@@ -1,11 +1,9 @@
 Ticker,Company,Sector,Industry,Country,Market Cap,P/E,Price,Change,Volume
-CMND,Clearmind Medicine Inc,Healthcare,Biotechnology,Canada,4370000.0,,1.38,0.1795,47782864.0
-MCVT,Mill City Ventures III Ltd,Financial,Credit Services,USA,19170000.0,,3.0,0.11109999999999999,14536.0
-MSGM,Motorsport Games Inc,Communication Services,Electronic Gaming & Multimedia,USA,8680000.0,,3.19,0.40549999999999997,5546681.0
-NUWE,Nuwellis Inc,Healthcare,Medical Devices,USA,1680000.0,,0.25,0.4474,127464529.0
-NUZE,Nuzee Inc,Consumer Defensive,Packaged Foods,USA,2710000.0,,2.12,0.5905,25280575.0
-NYC,American Strategic Investment Co,Real Estate,Real Estate Services,USA,20370000.0,,8.15,0.4052,272847.0
-OGEN,Oragenics Inc,Healthcare,Biotechnology,USA,5990000.0,,1.34,0.23829999999999998,529530.0
-PLTN,Plutonian Acquisition Corp,Financial,Shell Companies,USA,53200000.0,99.25,10.64,0.11410000000000001,751073.0
-RNAZ,TransCode Therapeutics Inc,Healthcare,Biotechnology,USA,7000000.0,,1.07,0.3072,2878359.0
-VINO,Gaucho Group Holdings Inc,Real Estate,Real Estate - Diversified,USA,4210000.0,,5.26,0.1288,3704711.0
+CMND,Clearmind Medicine Inc,Healthcare,Biotechnology,Canada,4600000.0,,1.45,0.23929999999999998,48581472.0
+GSUN,Golden Sun Health Technology Group Ltd,Consumer Defensive,Education & Training Services,China,27150000.0,,4.9,0.6897,43678482.0
+MSGM,Motorsport Games Inc,Communication Services,Electronic Gaming & Multimedia,USA,8620000.0,,3.17,0.39649999999999996,6320849.0
+NUWE,Nuwellis Inc,Healthcare,Medical Devices,USA,1760000.0,,0.26,0.5129,130400190.0
+NUZE,Nuzee Inc,Consumer Defensive,Packaged Foods,USA,2460000.0,,1.92,0.4436,25967035.0
+NYC,American Strategic Investment Co,Real Estate,Real Estate Services,USA,20620000.0,,8.25,0.4224,286958.0
+SOPA,Society Pass Inc,Technology,Software - Application,USA,5300000.0,,2.11,0.11380000000000001,1462691.0
+VINO,Gaucho Group Holdings Inc,Real Estate,Real Estate - Diversified,USA,4370000.0,,5.47,0.1729,3738635.0
