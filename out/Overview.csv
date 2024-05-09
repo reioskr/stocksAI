@@ -1,9 +1,10 @@
 Ticker,Company,Sector,Industry,Country,Market Cap,P/E,Price,Change,Volume
-DTCK,Davis Commodities Ltd.,Consumer Defensive,Farm Products,Singapore,34790000.0,8.64,1.42,0.16390000000000002,3466817.0
-MULN,Mullen Automotive Inc,Consumer Cyclical,Auto Manufacturers,USA,48310000.0,,7.38,0.2848,19434404.0
-OXBR,Oxbridge Re Holdings Ltd,Financial,Insurance - Reinsurance,Cayman Islands,9890000.0,,1.64,0.2953,227635.0
-REBN,Reborn Coffee Inc,Consumer Cyclical,Restaurants,USA,7350000.0,,3.18,0.8382,104369059.0
-SGD,Safe and Green Development Corp,Real Estate,Real Estate - Development,USA,9360000.0,,0.65,0.6716,62824093.0
-SLNH,Soluna Holdings Inc,Financial,Capital Markets,USA,10300000.0,,2.71,0.1152,13456843.0
-SYTA,Siyata Mobile Inc,Technology,Communication Equipment,Canada,1470000.0,,2.41,0.1387,572031.0
-WYY,Widepoint Corp,Technology,Information Technology Services,USA,23520000.0,,2.46,0.10310000000000001,1121670.0
+DTCK,Davis Commodities Ltd.,Consumer Defensive,Farm Products,Singapore,34790000.0,8.64,1.42,0.16390000000000002,3682748.0
+MULN,Mullen Automotive Inc,Consumer Cyclical,Auto Manufacturers,USA,44740000.0,,6.83,0.18989999999999999,23377786.0
+OXBR,Oxbridge Re Holdings Ltd,Financial,Insurance - Reinsurance,Cayman Islands,9260000.0,,1.54,0.2126,300893.0
+REBN,Reborn Coffee Inc,Consumer Cyclical,Restaurants,USA,7370000.0,,3.19,0.8439,109736664.0
+SGD,Safe and Green Development Corp,Real Estate,Real Estate - Development,USA,8900000.0,,0.62,0.5881000000000001,69596215.0
+SLNH,Soluna Holdings Inc,Financial,Capital Markets,USA,10220000.0,,2.69,0.107,13903909.0
+SYTA,Siyata Mobile Inc,Technology,Communication Equipment,Canada,1490000.0,,2.44,0.15289999999999998,627935.0
+TIVC,Tivic Health Systems Inc,Healthcare,Medical Devices,USA,1970000.0,,1.34,0.2762,23595550.0
+WYY,Widepoint Corp,Technology,Information Technology Services,USA,24280000.0,,2.54,0.139,1201849.0
