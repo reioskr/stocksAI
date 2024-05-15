@@ -1,9 +1,5 @@
-Ticker,Date,Article title,Article sentiment
-SYTA,2024-05-08T13:00:00.000Z,Siyata Mobile Announces Pricing of its $4.0 Million Public Offering of Common Shares and Pre-Funded Warrants,neutral
-SYTA,2024-04-08T20:05:00.000Z,Siyata Mobile Announces Fourth Quarter and Full-Year 2023 Financial Results,neutral
-SYTA,2024-04-06T13:28:32.000Z,Siyata Mobile Full Year 2023 Earnings: Revenues Miss Expectations,neutral
-SYTA,2024-04-05T12:00:00.000Z,"Siyata Mobile to Host Fourth Quarter and Year End 2023 Financial Results Call at 8:30 a.m. ET on April 9, 2024",neutral
-SYTA,2024-04-04T12:00:00.000Z,"Siyata Adds New Channel Partner with 3AM Innovations, a Software Provider for First Responders",neutral
-SYTA,2024-03-21T12:00:00.000Z,"Siyata Further Expands Global Distribution in Agreement with Leading Mobility, Logistics and Infrastructure Conglomerate in the Middle East",positive
-SYTA,2024-03-11T15:43:00.000Z,Siyata Mobile Inc. to Showcase Portfolio at IWCE 2024,neutral
-SYTA,2024-03-05T17:42:00.000Z,Siyata Mobile SD7 Push-to-Talk Over Cellular Device Featured,neutral
+time,title,link,sentiment,sentiment_score
+2024-05-15 18:10:00,Siyata Mobile to Release First Quarter Earnings Results After the Market Close Today,https://finance.yahoo.com/news/siyata-mobile-release-first-quarter-161000132.html,neutral,-0.9472803473472595
+2024-05-14 14:30:00,Siyata Mobile Announces New Orders Totaling Over $2.2 Million; SD7 Achieves ‘Stocked’ Status with Third Major U.S. Wireless Carrier,https://finance.yahoo.com/news/siyata-mobile-announces-orders-totaling-123000125.html,positive,0.6426109671592712
+2024-05-13 19:30:00,Siyata Mobile’s Inclusion in Large U.S. Wireless Carrier’s ‘Free Feature Phone for Life’ Promotion Opens Massive Market Opportunity,https://finance.yahoo.com/news/siyata-mobile-inclusion-large-u-173000538.html,neutral,-0.623347818851471
+2024-05-13 15:00:00,Siyata Mobile’s SD7 Handset Added to AT&T FirstNet’s ‘Free Feature Phone for Life’ Promotion,https://finance.yahoo.com/news/siyata-mobile-sd7-handset-added-130000325.html,neutral,-0.672245442867279
