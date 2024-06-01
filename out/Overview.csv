@@ -1,11 +1,11 @@
-Ticker,Company,Sector,Industry,Country,Market Cap,P/E,Price,Change,Volume
-AWIN,AERWINS Technologies Inc,Technology,Scientific & Technical Instruments,USA,5780000.0,,6.28,1.3173,48605225.0
-EDBL,Edible Garden AG Inc,Consumer Defensive,Farm Products,USA,2720000.0,,4.94,0.15689999999999998,18550267.0
-IKT,Inhibikase Therapeutics Inc,Healthcare,Biotechnology,USA,12900000.0,,1.99,0.2922,564724.0
-JFBR,Jeffs Brands Ltd,Consumer Cyclical,Internet Retail,Israel,360000.0,,0.3,0.32539999999999997,5991664.0
-LIDR,AEye Inc,Technology,Software - Infrastructure,USA,21710000.0,,3.34,0.3577,35082423.0
-MYSZ,My Size Inc,Technology,Software - Application,Israel,3400000.0,,5.32,0.1247,345021.0
-RELI,Reliance Global Group Inc,Financial,Insurance Brokers,USA,2100000.0,,0.37,0.3654,26792216.0
-SOWG,Sow Good Inc,Consumer Defensive,Packaged Foods,USA,156970000.0,,15.76,0.41850000000000004,381987.0
-SYTA,Siyata Mobile Inc,Technology,Communication Equipment,Canada,2120000.0,,3.48,0.11539999999999999,830533.0
-TTOO,T2 Biosystems Inc,Healthcare,Diagnostics & Research,USA,52480000.0,,5.97,0.4351,3120366.0
+Ticker,Company,Sector,Industry,Country,Market Cap,Price,Change,Volume
+AFBI,Affinity Bancshares Inc,Financial,Banks - Regional,USA,132570000.0,20.65,0.21789999999999998,17035.0
+BNRG,Brenmiller Energy Ltd,Utilities,Utilities - Renewable,Israel,31270000.0,1.75,0.2376,1242292.0
+CISS,C3is Inc,Industrials,Marine Shipping,Greece,10880000.0,1.87,0.1402,9381373.0
+DHAC,Digital Health Acquisition Corp,Financial,Shell Companies,USA,82220000.0,22.84,0.5227,1014420.0
+ERNA,Eterna Therapeutics Inc,Healthcare,Biotechnology,USA,11700000.0,2.16,0.18170000000000003,5647.0
+FOXO,FOXO Technologies Inc,Healthcare,Health Information Services,USA,3490000.0,0.39,0.1462,464824.0
+GNPX,Genprex Inc,Healthcare,Biotechnology,USA,5960000.0,2.84,0.1736,308247.0
+LUCY,Innovative Eyewear Inc,Healthcare,Medical Instruments & Supplies,USA,20710000.0,1.18,0.5,33843854.0
+VCNX,Vaccinex Inc,Healthcare,Biotechnology,USA,11150000.0,7.85,0.5096,30818.0
+XHG,XChange Tec.Inc. ADR,Real Estate,Real Estate Services,China,4650000.0,1.08,0.5539999999999999,16150452.0
