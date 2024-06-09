@@ -1,11 +1,10 @@
 Ticker,Company,Sector,Industry,Country,Market Cap,Price,Change,Volume
-AFBI,Affinity Bancshares Inc,Financial,Banks - Regional,USA,132570000.0,20.65,0.21789999999999998,17035.0
-BNRG,Brenmiller Energy Ltd,Utilities,Utilities - Renewable,Israel,31270000.0,1.75,0.2376,1242292.0
-CISS,C3is Inc,Industrials,Marine Shipping,Greece,10880000.0,1.87,0.1402,9381373.0
-DHAC,Digital Health Acquisition Corp,Financial,Shell Companies,USA,82220000.0,22.84,0.5227,1014420.0
-ERNA,Eterna Therapeutics Inc,Healthcare,Biotechnology,USA,11700000.0,2.16,0.18170000000000003,5647.0
-FOXO,FOXO Technologies Inc,Healthcare,Health Information Services,USA,3490000.0,0.39,0.1462,464824.0
-GNPX,Genprex Inc,Healthcare,Biotechnology,USA,5960000.0,2.84,0.1736,308247.0
-LUCY,Innovative Eyewear Inc,Healthcare,Medical Instruments & Supplies,USA,20710000.0,1.18,0.5,33843854.0
-VCNX,Vaccinex Inc,Healthcare,Biotechnology,USA,11150000.0,7.85,0.5096,30818.0
-XHG,XChange Tec.Inc. ADR,Real Estate,Real Estate Services,China,4650000.0,1.08,0.5539999999999999,16150452.0
+ADD,Color Star Technology Co Ltd,Communication Services,Entertainment,USA,3350000.0,0.31,0.3214,1543648.0
+AEI,Alset Inc,Real Estate,Real Estate - Development,USA,11090000.0,1.2,0.165,800396.0
+BGLC,BioNexus Gene Lab Corp,Basic Materials,Specialty Chemicals,Malaysia,8570000.0,0.49,0.1025,3412088.0
+MITQ,Moving iMage Technologies Inc.,Technology,Communication Equipment,USA,6930000.0,0.68,0.2143,736921.0
+MLGO,MicroAlgo Inc,Technology,Software - Infrastructure,China,84470000.0,11.1,6.115399999999999,96157022.0
+MRIN,Marin Software Inc,Technology,Software - Application,USA,8680000.0,2.79,0.1387,4496869.0
+OWLT,Owlet Inc,Healthcare,Health Information Services,USA,37290000.0,4.12,0.1444,83960.0
+SILO,SILO Pharma Inc,Healthcare,Biotechnology,USA,6550000.0,2.34,0.1527,1019713.0
+SSY,Sunlink Health Systems Inc,Healthcare,Pharmaceutical Retailers,USA,4940000.0,0.7,0.1606,722107.0
