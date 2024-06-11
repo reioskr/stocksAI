@@ -1,10 +1,8 @@
 Ticker,Company,Sector,Industry,Country,Market Cap,Price,Change,Volume
-ADD,Color Star Technology Co Ltd,Communication Services,Entertainment,USA,3350000.0,0.31,0.3214,1543648.0
-AEI,Alset Inc,Real Estate,Real Estate - Development,USA,11090000.0,1.2,0.165,800396.0
-BGLC,BioNexus Gene Lab Corp,Basic Materials,Specialty Chemicals,Malaysia,8570000.0,0.49,0.1025,3412088.0
-MITQ,Moving iMage Technologies Inc.,Technology,Communication Equipment,USA,6930000.0,0.68,0.2143,736921.0
-MLGO,MicroAlgo Inc,Technology,Software - Infrastructure,China,84470000.0,11.1,6.115399999999999,96157022.0
-MRIN,Marin Software Inc,Technology,Software - Application,USA,8680000.0,2.79,0.1387,4496869.0
-OWLT,Owlet Inc,Healthcare,Health Information Services,USA,37290000.0,4.12,0.1444,83960.0
-SILO,SILO Pharma Inc,Healthcare,Biotechnology,USA,6550000.0,2.34,0.1527,1019713.0
-SSY,Sunlink Health Systems Inc,Healthcare,Pharmaceutical Retailers,USA,4940000.0,0.7,0.1606,722107.0
+AENT,Alliance Entertainment Holding Corporation,Communication Services,Entertainment,USA,197350000.0,3.88,0.1672,111976.0
+AILE,iLearningEngines Inc.,Technology,Software - Infrastructure,USA,75360000.0,6.48,0.12890000000000001,417178.0
+BWAQ,Blue World Acquisition Corp,Financial,Shell Companies,USA,49860000.0,9.0,0.3197,1646506.0
+CANF,Can-Fite Biopharma Ltd ADR,Healthcare,Biotechnology,Israel,13900000.0,2.79,0.1008,121678.0
+KWE,KWESST Micro Systems Inc.,Industrials,Aerospace & Defense,Canada,4230000.0,1.04,0.1973,35195615.0
+TRIB,Trinity Biotech Plc ADR,Healthcare,Medical Devices,Ireland,22020000.0,2.88,0.2639,236679.0
+WHLR,Wheeler Real Estate Investment Trust Inc,Real Estate,REIT - Retail,USA,6510000.0,2.3,0.465,5058544.0
